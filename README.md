@@ -1,0 +1,2 @@
+# PYTHON_PROJECTS
+Projects of "100 DAYS OF PYTHON" course
